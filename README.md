@@ -3,7 +3,7 @@ Aicadium code round
 
 ### Key Notes
 * The history of commits can be found in the 2nd branch solution
-* Run predict.py file as python predict.py PATH.csv
+* Run predict.py:  $ python predict.py PATH.csv
 * Auto-create an output CSV file with the predicted result 
 * Majorly focus on feature binning and class balancing
 
